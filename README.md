@@ -17,10 +17,11 @@ It can detect names and types from actors. Here are some examples of things it c
 ```
 
 ## Dependencies / Installation:
-A lua interpreter is required. Download and run converter.lua
+A lua interpreter is required. Download the file `converter.lua`
 
 ## Usage:
 ```
 lua converter.lua {{input}} {{output}}
 ```
+Where the input is an xml file, and the output is a lua file that you want to be created / overwritten.
 
