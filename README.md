@@ -17,7 +17,7 @@ It can detect names and types from actors. Here are some examples of things it c
 ```
 
 ## Dependencies / Installation:
-A lua interpreter is required.
+A lua interpreter is required. Download and run converter.lua
 
 ## Usage:
 ```
